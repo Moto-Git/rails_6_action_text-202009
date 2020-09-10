@@ -33,3 +33,4 @@ For instance, you can set like tag=0.0.4 in the following command.
 ```
 $ ./bin/build-and-push-image $tag
 ```
+# rails_6_action_text-202009
